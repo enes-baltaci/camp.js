@@ -26,3 +26,4 @@ console.log("</ul>");
 console.log(konutKredileri);
 
 console.log("Good Night");
+console.log("Good Hunt");
