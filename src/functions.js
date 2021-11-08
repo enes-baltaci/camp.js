@@ -93,3 +93,8 @@ let newProductName, newUnitPrice, newQuantity;
 console.log(newProductName);
 console.log(newUnitPrice);
 console.log(newQuantity);
+
+let x = () => 0.18;
+
+console.log(x);
+console.log(x());
